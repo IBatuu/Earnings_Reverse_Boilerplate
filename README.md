@@ -13,4 +13,5 @@ Notes
 
 - Portfolio value tracking is a very simple module. I am looking to improve it.
 
-![image](https://github.com/IBatuu/Earnings_Reverse_Boilerplate/assets/78052559/2dfc1d10-1977-4e46-8df2-9d9e6583acd8)
+![image](https://github.com/IBatuu/Earnings_Reverse_Boilerplate/assets/78052559/c0be37b0-fc02-4e81-97aa-544277c236fc)
+
