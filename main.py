@@ -20,7 +20,7 @@ TABLE_NAME = 'daily_ohlc' #REPLACE
 
 # Set the params for the backtest result folders
 current_dir = "Earnings_Reversal"
-root_dir = f"C:\\Users\\Backtesting_Tutorial\\{current_dir}"
+root_dir = f\\{current_dir}"
 subDir = "MA-4h-V1"
 pct = "pct1"
 
